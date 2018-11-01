@@ -1,0 +1,7 @@
+#Thu Nov 01 02:56:07 WIB 2018
+base.0=/Users/janitrapanji/Development/ikapp/android/app/build/intermediates/transforms/dexMerger/release/0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/janitrapanji/Development/ikapp/android/app/build/intermediates/transforms/dexMerger/release/0
